@@ -82,7 +82,7 @@ body {
 .home {
     background-image: url(img/floral.jpg);
     background-size: cover;
-    min-height: 90vh;
+    min-height: 80vh;
     margin-top: -6rem;
     padding-top: 10rem;
     padding-bottom: 5rem;
@@ -343,10 +343,6 @@ footer li {
     }
     .hero h1 {
         font-size: 5.5rem;
-    }
-
-    .home .couple {
-        margin-top: 60px;
     }
 
     .home .couple h3 {
